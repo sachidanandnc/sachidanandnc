@@ -19,7 +19,7 @@
 
 ---
 
-## 🌌 My Vision
+##  About Me
 
 I believe technology is a powerful tool to solve complex, real-world problems. With a strong focus on **AI systems, full-stack development, and embedded technologies**, I am driven to create scalable solutions that leave a tangible impact. 
 
