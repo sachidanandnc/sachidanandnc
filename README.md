@@ -25,7 +25,7 @@ I believe technology is a powerful tool to solve complex, real-world problems. W
 
 Whether designing intelligent healthcare diagnostics, crafting hardware logic, or building web automation tools, I strive to make my work both efficient and deeply meaningful.
 
-- 🎓 Pursuing a **B.E. in Computer Science and Engineering** (RVITM) & a **BS in Electronic Systems** (IIT Madras).
+- 🎓 Pursuing a **B.E. in Computer Science and Engineering** (RVITM)
 - 🧠 Exploring interpretable ML models (LIME, SHAP) to demystify black-box algorithms.
 - ⚙️ Designing digital logic modules with Verilog (FIFO buffers, shift registers, parallel multipliers).
 - 🎲 Speedcuber & Vice President of the RVITM Cubing Association (3x3 & Blindfold categories).
@@ -63,31 +63,3 @@ Whether designing intelligent healthcare diagnostics, crafting hardware logic, o
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ---
-
-## ⚡ Current Endeavors
-
-```python
-class DeveloperStatus:
-    def __init__(self):
-        self.learning = [
-            "Advanced Machine Learning (LIME, SHAP)",
-            "Unix Architecture & Networking Protocols",
-            "Embedded Systems & Autonomous IoT"
-        ]
-        self.building = [
-            "CCMS-Sahayak: Sovereign AI for Judgment Parsing",
-            "EchoSegGAN: Cardiac Ultrasound Segmentation",
-            "Parakh AI: Granular Plagiarism Detection"
-        ]
-        self.interests = [
-            "Speedcubing Competitions",
-            "Web Automation & Data Extraction",
-            "Indian Cricket History (IPL)"
-        ]
-        self.open_to = [
-            "AI & Full-Stack Roles",
-            "Embedded Systems Projects",
-            "Open Source Collaboration"
-        ]
-
-sachidanand = DeveloperStatus()
