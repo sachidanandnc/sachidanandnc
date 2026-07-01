@@ -26,8 +26,8 @@ I believe technology is a powerful tool to solve complex, real-world problems. W
 Whether designing intelligent healthcare diagnostics, crafting hardware logic, or building web automation tools, I strive to make my work both efficient and deeply meaningful.
 
 - 🎓 Pursuing a **B.E. in Computer Science and Engineering** (RVITM)
-- 🧠 Exploring interpretable ML models (LIME, SHAP) to demystify black-box algorithms.
-- ⚙️ Designing digital logic modules with Verilog (FIFO buffers, shift registers, parallel multipliers).
+- 🧠 Engineering interpretable machine learning pipelines using LIME and SHAP
+- ⚙️ Synthesizing robust digital logic and embedded architectures in Verilog
 - 🎲 Speedcuber & Vice President of the RVITM Cubing Association (3x3 & Blindfold categories).
 - 📍 Based in Bengaluru, Karnataka.
 
@@ -48,10 +48,10 @@ Whether designing intelligent healthcare diagnostics, crafting hardware logic, o
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLM_Integrations-092E20?style=flat-square&logo=openai&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **Web Development**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
