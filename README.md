@@ -28,8 +28,8 @@ Whether designing intelligent healthcare diagnostics, crafting hardware logic, o
 - 🎓 Pursuing a **B.E. in Computer Science and Engineering** (RVITM)
 - 🧠 Engineering interpretable machine learning pipelines using LIME and SHAP
 - ⚙️ Synthesizing robust digital logic and embedded architectures in Verilog
-- 🎲 Speedcuber & Vice President of the RVITM Cubing Association (3x3 & Blindfold categories).
-- 📍 Based in Bengaluru, Karnataka.
+- 🎲 Speedcuber & Vice President of the RVITM Cubing Association
+- 📍 Based in Bengaluru, Karnataka
 
 ---
 
