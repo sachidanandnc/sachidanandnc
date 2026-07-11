@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Sachidanand N C 👋</h1>
-<h3 align="center">AI & Full-Stack Developer | Electronic Systems Enthusiast</h3>
+<!-- <h3 align="center">AI & Full-Stack Developer | Electronic Systems Enthusiast</h3>
 
 <p align="center">
   <em>Bridging the gap between intelligent software and robust electronic systems.</em>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/SachidanandNC">
